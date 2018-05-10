@@ -1,0 +1,41 @@
+
+
+
+<resources>
+    <string name="app_name">مجله سلامتی </string>
+
+    <!--Toolbar menus-->
+    <string name="search">جستجو</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="voicePromptText">بگو</string>
+
+    <!--Buttom Bar-->
+    <string name="home">خانه</string>
+    <string name="favorites">علاقه مندی ها</string>
+    <string name="categories">دسته بندی ها</string>
+    <string name="settings">تنظیمات</string>
+
+
+    <!--Drawer-->
+    <string name="home_drawer">صفحه اصلی</string>
+    <string name="favorite_drawer">علاقه مندی ها</string>
+    <string name="categoreis_drawer">دسته بندی ها</string>
+    <string name="aboutus_drawer">درباره ما</string>
+
+    <!--Detail Product-->
+    <string name="tags_title">تگ ها</string>
+
+
+    <!--Error Handling-->
+    <string name="ERROR_UNAUTHORIZED">شما اجازه دسترسی به محتوا را ندارید</string>
+
+    <string name="ERROR_NOT_FOUND">محتوای مورد نظر در دسترس نیست</string>
+
+    <string name="ERROR_GENERAL">خطا در ارتباط با سرور</string>
+
+    <string name="some_error">خطا</string>
+
+
+    <!--SplashActivity Activity-->
+    <string name="splash_text">اپلیکشن آزمایشی وردپرس</string>
+</resources>

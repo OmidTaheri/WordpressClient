@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/material_tall_text_subheading_regular</item>
+        <item name="drawerArrowStyle">@style/MaterialDrawer.DrawerArrowStyle</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="android:textAppearance">@style/TextAppearance.Text.Regular</item>
+        <item name="android:textColorHint">@color/white</item>
+
+
+
+    </style>
+
+</resources>

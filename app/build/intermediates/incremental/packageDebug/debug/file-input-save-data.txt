@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu May 10 15:11:56 IRDT 2018
+1.base=E\:\\Android_Stadio_Rep\\newshaa_wordpress\\app\\build\\intermediates\\assets\\debug
+2.path=fonts/byekan.ttf
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\Android_Stadio_Rep\\newshaa_wordpress\\app\\build\\intermediates\\assets\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=fonts/materialdrawerfont-font-v5.0.0.ttf
+count=4
+1.set=ASSET
+0.path=classes.dex
+3.base=E\:\\Android_Stadio_Rep\\newshaa_wordpress\\app\\build\\intermediates\\assets\\debug
+0.set=DEX
+0.base=E\:\\Android_Stadio_Rep\\newshaa_wordpress\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.baseType=DIRECTORY
+1.path=fonts/byekan_bold.ttf
