@@ -20,7 +20,7 @@ android {
             // minifyEnabled true
             useProguard false
             debuggable true
-            buildConfigField("String", "BASE_URL", "\"http://newshaa.ir/wp-json/wp/v2/\"")
+            buildConfigField("String", "BASE_URL", "YOUR_SITE")
 
 
         }
@@ -28,7 +28,7 @@ android {
             shrinkResources true
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            buildConfigField("String", "BASE_URL", "\"http://newshaa.ir/wp-json/wp/v2/\"")
+            buildConfigField("String", "BASE_URL", "YOUR_SITE")
 
         }
     }
