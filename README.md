@@ -16,6 +16,6 @@ Clone this repo to your local machine using https://github.com/OmidTaheri/Wordpr
 * rxjava2- Reacttive Programming
 * Butterknife- Injection View
 
-## Authors
+#
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-taheri)
 
-* **Omid Taheri** - [Personal Site](http://omidtaheri.ir)
