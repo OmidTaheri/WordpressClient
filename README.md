@@ -13,7 +13,7 @@ Clone this repo to your local machine using https://github.com/OmidTaheri/Wordpr
 * Glide - Load Image
 * Rtrofit- Network Requests
 * Dagger- Dependency Injection
-* rxjava2- Reacttive Programming
+* rxjava2- Reactive Programming
 * Butterknife- Injection View
 
 #
